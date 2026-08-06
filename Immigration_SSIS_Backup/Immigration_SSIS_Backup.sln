@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Immigration_SSIS_Backup", "Immigration_SSIS_Backup\Immigration_SSIS_Backup.dtproj", "{C4D92741-EB6B-C58A-C4DC-17017B6A1958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4D92741-EB6B-C58A-C4DC-17017B6A1958}.Development|Default.ActiveCfg = Development
+		{C4D92741-EB6B-C58A-C4DC-17017B6A1958}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {897463E9-8638-4A3F-BA66-0A033B5B4B15}
+	EndGlobalSection
+EndGlobal
